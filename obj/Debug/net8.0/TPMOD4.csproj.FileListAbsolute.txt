@@ -1,0 +1,15 @@
+D:\KPL\TPMOD4\bin\Debug\net8.0\TPMOD4.exe
+D:\KPL\TPMOD4\bin\Debug\net8.0\TPMOD4.deps.json
+D:\KPL\TPMOD4\bin\Debug\net8.0\TPMOD4.runtimeconfig.json
+D:\KPL\TPMOD4\bin\Debug\net8.0\TPMOD4.dll
+D:\KPL\TPMOD4\bin\Debug\net8.0\TPMOD4.pdb
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.AssemblyInfoInputs.cache
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.AssemblyInfo.cs
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.csproj.CoreCompileInputs.cache
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.sourcelink.json
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.dll
+D:\KPL\TPMOD4\obj\Debug\net8.0\refint\TPMOD4.dll
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.pdb
+D:\KPL\TPMOD4\obj\Debug\net8.0\TPMOD4.genruntimeconfig.cache
+D:\KPL\TPMOD4\obj\Debug\net8.0\ref\TPMOD4.dll
